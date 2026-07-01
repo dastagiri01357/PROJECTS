@@ -128,7 +128,7 @@ As I continue learning, I plan to:
 
 ### 🔗 Connect with Me
 
-- GitHub: https://github.com/dastagiri01357
+- GitHub: https://github.com/Dastagiri-Potuganti
 
 ---
 
