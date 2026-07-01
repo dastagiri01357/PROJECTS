@@ -64,7 +64,7 @@ As I continue learning, I plan to:
 
 Aspiring Python Developer | Full-Stack Development Learner
 
-GitHub: https://github.com/dastagiri01357
+GitHub: https://github.com/Dastagiri-Potuganti
 
 ---
 
